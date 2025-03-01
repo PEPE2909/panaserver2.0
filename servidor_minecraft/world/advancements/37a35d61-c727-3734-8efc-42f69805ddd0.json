@@ -461,11 +461,13 @@
       "minecraft:skeleton": "2025-02-27 21:08:36 +0000",
       "minecraft:magma_cube": "2025-02-27 23:05:13 +0000",
       "minecraft:spider": "2025-02-27 22:11:39 +0000",
+      "minecraft:creeper": "2025-03-01 03:39:34 +0000",
       "minecraft:wither_skeleton": "2025-02-27 23:21:05 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:cave_spider": "2025-03-01 02:14:34 +0000",
       "minecraft:enderman": "2025-03-01 03:36:33 +0000",
-      "minecraft:zombie": "2025-02-27 21:13:18 +0000"
+      "minecraft:zombie": "2025-02-27 21:13:18 +0000",
+      "minecraft:zombie_villager": "2025-03-01 03:45:38 +0000"
     },
     "done": false
   },
@@ -3099,6 +3101,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-03-01 03:48:43 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/resistor_shield": {
     "criteria": {
       "resistor_shield": "2025-03-01 03:35:18 +0000"
@@ -3274,6 +3282,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-01 03:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 03:46:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
@@ -3397,6 +3417,12 @@
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-03-01 03:19:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 03:48:26 +0000"
     },
     "done": true
   },
