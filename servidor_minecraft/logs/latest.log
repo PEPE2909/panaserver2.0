@@ -894,3 +894,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 01:27:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
 [01Mar2025 01:27:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M5T1> volvi
 [01Mar2025 01:27:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> ola
+[01Mar2025 01:29:48.025] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/13632 - Hatsune Miku.armour', to: 'db:'
+[01Mar2025 01:31:32.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[01Mar2025 01:31:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[01Mar2025 01:32:21.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:49357] logged in with entity id 2863 at (-59.2796883485025, 81.0, 274.45056544375586)
+[01Mar2025 01:32:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[01Mar2025 01:33:28.827] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'M5T1', from: 'fs:/downloads/14455 - Nexdore (Skin).armour', to: 'db:'
+[01Mar2025 01:34:13.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has completed the challenge [Learn to Fart]
+[01Mar2025 01:37:53.205] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/02269 - Naruto Susanoo Like Helmet.armour', to: 'db:'
+[01Mar2025 01:37:59.606] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/02270 - Naruto Susanoo Like Chest.armour', to: 'db:'
