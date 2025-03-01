@@ -4629,15 +4629,63 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-01 21:04:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-03-01 21:05:57 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2025-03-01 21:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-01 21:03:40 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_1": "2025-03-01 19:51:36 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-01 21:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-01 21:05:57 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-03-01 20:59:00 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-03-01 20:46:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-01 21:03:40 +0000"
     },
     "done": true
   },
@@ -4650,6 +4698,12 @@
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-03-01 20:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-01 21:05:57 +0000"
     },
     "done": true
   },
@@ -4676,6 +4730,12 @@
       "warden": "2025-03-01 20:46:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-01 21:05:57 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

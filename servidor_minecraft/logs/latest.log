@@ -443,3 +443,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 20:47:51.441] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Mar2025 20:47:51.442] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Mar2025 20:48:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[01Mar2025 20:59:00.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Second Age]
+[01Mar2025 21:02:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 356.500000, 148.500000, -4359.500000]
+[01Mar2025 21:04:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Not Today, Thank You]
+[01Mar2025 21:05:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was simmered in stygian blood
+[01Mar2025 21:05:25.321] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[01Mar2025 21:11:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [I Reject My Humanity!]
+[01Mar2025 21:14:53.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 moved wrongly!
+[01Mar2025 21:14:59.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[01Mar2025 21:15:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
