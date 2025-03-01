@@ -464,6 +464,7 @@
       "minecraft:wither_skeleton": "2025-02-27 23:21:05 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:cave_spider": "2025-03-01 02:14:34 +0000",
+      "minecraft:enderman": "2025-03-01 03:36:33 +0000",
       "minecraft:zombie": "2025-02-27 21:13:18 +0000"
     },
     "done": false
@@ -3098,6 +3099,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-03-01 03:35:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-03-01 03:29:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
@@ -3155,6 +3168,12 @@
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/galena_gauntlet_challenge": {
+    "criteria": {
+      "killed": "2025-03-01 03:39:01 +0000"
     },
     "done": true
   },
@@ -3354,6 +3373,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "scarlet": "2025-03-01 03:35:04 +0000"
     },
     "done": true
   },
