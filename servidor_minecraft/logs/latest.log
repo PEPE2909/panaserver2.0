@@ -1235,3 +1235,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 02:13:46.600] [Worker-Main-38/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Mar2025 02:13:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Tunnel Treasures]
 [01Mar2025 02:16:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [The Path to Better Gear]
+[01Mar2025 02:18:55.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[01Mar2025 02:19:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[01Mar2025 02:20:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Those Were the Days]
+[01Mar2025 02:21:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Piglin Brute
+[01Mar2025 02:21:59.081] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[01Mar2025 02:22:40.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[01Mar2025 02:22:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[01Mar2025 02:22:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has reached the goal [Here They Come]
+[01Mar2025 02:23:09.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -278.500000, 2.500000, 388.500000]
+[01Mar2025 02:26:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [The Most Useful Key]
+[01Mar2025 02:27:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has reached the goal [A Fast Comeback]

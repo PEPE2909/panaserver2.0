@@ -7984,3 +7984,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 02:14:03.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 02:14:03.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 02:16:56.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [The Path to Better Gear]
+[01Mar2025 02:18:55.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[01Mar2025 02:19:03.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 02:19:03.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 02:19:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[01Mar2025 02:20:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Those Were the Days]
+[01Mar2025 02:21:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Piglin Brute
+[01Mar2025 02:21:59.067] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful M5T1
+[01Mar2025 02:21:59.067] [Server thread/DEBUG] [tombstone/]: A new grave of the player M5T1 was created at position [x:-327, y:65, z:484, dim:minecraft:the_nether]
+[01Mar2025 02:21:59.081] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[01Mar2025 02:22:01.583] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa M5T1
+[01Mar2025 02:22:01.615] [Server thread/DEBUG] [twilightforest/]: Player M5T1 (be1a2ec5-7732-35a7-b580-774c8e948015) respawned and received items held in storage
+[01Mar2025 02:22:40.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[01Mar2025 02:22:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[01Mar2025 02:22:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has reached the goal [Here They Come]
+[01Mar2025 02:23:07.328] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:v30O8T4365' => accept skin request
+[01Mar2025 02:23:07.328] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:v30O8T4365' => response skin data, exception: null
+[01Mar2025 02:23:09.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -278.500000, 2.500000, 388.500000]
+[01Mar2025 02:24:03.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 02:24:03.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 02:26:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [The Most Useful Key]
+[01Mar2025 02:27:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has reached the goal [A Fast Comeback]
