@@ -61,16 +61,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-03-01 03:16:02 +0000",
       "minecraft:sunflower_plains": "2025-02-27 21:21:29 +0000",
       "minecraft:savanna_plateau": "2025-02-27 21:36:49 +0000",
       "minecraft:beach": "2025-02-27 22:34:05 +0000",
       "minecraft:mangrove_swamp": "2025-03-01 02:55:06 +0000",
       "minecraft:river": "2025-02-27 21:19:11 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 02:46:34 +0000",
+      "minecraft:stony_shore": "2025-03-01 03:03:51 +0000",
       "minecraft:dripstone_caves": "2025-03-01 01:53:01 +0000",
       "minecraft:forest": "2025-02-27 21:49:56 +0000",
       "minecraft:desert": "2025-03-01 02:55:08 +0000",
       "minecraft:ocean": "2025-02-27 22:34:46 +0000",
+      "minecraft:jungle": "2025-03-01 02:59:59 +0000",
       "minecraft:warm_ocean": "2025-03-01 02:46:59 +0000",
       "minecraft:flower_forest": "2025-02-27 21:29:49 +0000",
       "minecraft:deep_dark": "2025-03-01 01:56:35 +0000",
@@ -772,6 +775,9 @@
       "woodland": "2025-02-27 21:38:27 +0000",
       "scrubland": "2025-02-27 21:15:10 +0000",
       "bayou": "2025-03-01 02:54:08 +0000",
+      "floodplain": "2025-03-01 03:00:22 +0000",
+      "old_growth_woodland": "2025-03-01 03:04:53 +0000",
+      "mediterranean_forest": "2025-03-01 03:13:43 +0000",
       "spider_nest": "2025-03-01 01:52:29 +0000",
       "dryland": "2025-03-01 02:53:59 +0000",
       "wasteland": "2025-03-01 02:47:00 +0000",
@@ -3116,6 +3122,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-03-01 02:59:08 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/cactus_extra": {
     "criteria": {
       "has_material": "2025-03-01 02:58:16 +0000"
@@ -3125,6 +3137,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-03-01 03:17:05 +0000"
     },
     "done": true
   },
@@ -3161,6 +3179,18 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-03-01 03:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 03:02:40 +0000"
     },
     "done": true
   },
@@ -3212,6 +3242,19 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-03-01 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2025-03-01 03:03:00 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2025-03-01 03:03:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
@@ -3224,9 +3267,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-01 03:02:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 03:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-01 03:03:00 +0000"
     },
     "done": true
   },
@@ -3308,9 +3369,53 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-03-01 03:19:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-03-01 03:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-01 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_sand_bricks": "2025-03-01 03:03:00 +0000",
+      "has_item1_domum_ornamentum_sand_bricks": "2025-03-01 03:03:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-01 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-01 03:02:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-03-01 03:28:51 +0000",
+      "azure": "2025-03-01 03:19:40 +0000"
     },
     "done": true
   },
