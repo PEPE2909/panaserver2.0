@@ -5411,3 +5411,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 20:09:52.542] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
 [01Mar2025 20:10:07.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 20:10:07.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:15:07.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:15:07.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:16:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Dungeon Sentry
+[01Mar2025 20:16:26.015] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[01Mar2025 20:16:26.016] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-1920, y:91, z:-3118, dim:minecraft:overworld]
+[01Mar2025 20:16:26.019] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[01Mar2025 20:16:27.334] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[01Mar2025 20:16:27.356] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[01Mar2025 20:16:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Dungeon Sentry
+[01Mar2025 20:16:58.318] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[01Mar2025 20:16:58.319] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-1931, y:94, z:-3112, dim:minecraft:overworld]
+[01Mar2025 20:16:58.322] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[01Mar2025 20:16:59.809] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[01Mar2025 20:16:59.829] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[01Mar2025 20:18:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[01Mar2025 20:20:07.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:20:07.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:21:08.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 35 experience points to MadaraUchiha2909]
+[01Mar2025 20:21:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 35000 experience points to MadaraUchiha2909]
