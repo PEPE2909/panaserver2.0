@@ -824,3 +824,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 22:24:35.592] [Worker-Main-88/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Mar2025 22:28:12.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
 [01Mar2025 22:28:12.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[01Mar2025 22:39:02.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:49210] logged in with entity id 68301 at (1500.337265571331, -38.0, 1500.969559632479)
+[01Mar2025 22:39:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[01Mar2025 22:39:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[01Mar2025 22:39:54.967] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:54.968] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:54.968] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:54.968] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:57.483] [Worker-Main-192/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:57.484] [Worker-Main-192/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:39:57.484] [Worker-Main-192/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:40:19.782] [Worker-Main-192/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:40:21.149] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:40:21.150] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:40:21.150] [Worker-Main-193/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 22:41:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Who turned the lights off?]
+[01Mar2025 22:41:24.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Sweet Sweet Speeding Up]
