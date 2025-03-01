@@ -1037,6 +1037,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-27 23:49:59 +0000",
       "cooked_beef": "2025-02-27 22:58:39 +0000",
+      "porkchop": "2025-03-01 01:41:01 +0000",
       "golden_apple": "2025-02-27 22:48:32 +0000",
       "golden_carrot": "2025-02-27 23:47:25 +0000",
       "carrot": "2025-02-28 00:15:57 +0000"
@@ -1984,7 +1985,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-28 00:05:48 +0000",
-      "minecraft:soul_sand_valley": "2025-02-28 00:07:54 +0000"
+      "minecraft:soul_sand_valley": "2025-02-28 00:07:54 +0000",
+      "minecraft:nether_wastes": "2025-03-01 01:42:55 +0000"
     },
     "done": false
   },
@@ -2048,9 +2050,33 @@
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-03-01 01:38:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-03-01 01:38:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-03-01 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-03-01 01:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-01 01:44:02 +0000"
     },
     "done": true
   },
