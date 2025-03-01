@@ -5484,3 +5484,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 21:25:07.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 21:25:30.017] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/13632 - Hatsune Miku.armour', to: 'db:'
 [01Mar2025 21:25:30.019] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:IVTBcu0L8a' => finish skin loading
+[01Mar2025 21:25:57.710] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/23848 - 枫原万叶[特别重置].armour', to: 'db:'
+[01Mar2025 21:25:57.711] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => finish skin loading
+[01Mar2025 21:26:05.235] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[01Mar2025 21:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -2702.500000, 68.500000, -3648.500000]
+[01Mar2025 21:29:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[01Mar2025 21:30:07.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 21:30:07.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 21:33:37.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Wind Darkening]
+[01Mar2025 21:35:07.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 21:35:07.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
