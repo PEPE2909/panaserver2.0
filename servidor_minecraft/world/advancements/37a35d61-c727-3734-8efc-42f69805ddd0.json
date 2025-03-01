@@ -809,6 +809,7 @@
       "dune_beach": "2025-03-01 15:01:12 +0000",
       "volcanic_plains": "2025-03-01 15:08:06 +0000",
       "prairie": "2025-03-01 15:01:18 +0000",
+      "glowing_grotto": "2025-03-01 20:35:33 +0000",
       "rainforest": "2025-02-27 23:46:13 +0000",
       "crag": "2025-03-01 17:16:32 +0000"
     },
@@ -4622,17 +4623,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-03-01 20:41:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hatman": {
     "criteria": {
       "hatman_1": "2025-03-01 19:51:36 +0000"
     },
     "done": false
   },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-01 20:46:23 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:hat_for_dark_deeds": {
     "criteria": {
       "hat_for_dark_deeds_0": "2025-03-01 19:51:36 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-01 20:46:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2025-03-01 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-03-01 20:41:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-03-01 20:46:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
