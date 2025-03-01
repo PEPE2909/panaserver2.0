@@ -4635,9 +4635,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 21:56:53 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
     "criteria": {
       "has_raw_copper": "2025-03-01 21:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-01 22:01:46 +0000"
     },
     "done": true
   },
@@ -4686,6 +4698,12 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-03-01 20:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 21:56:53 +0000"
     },
     "done": true
   },
@@ -4740,6 +4758,12 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-03-01 20:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 21:56:53 +0000"
     },
     "done": true
   },
