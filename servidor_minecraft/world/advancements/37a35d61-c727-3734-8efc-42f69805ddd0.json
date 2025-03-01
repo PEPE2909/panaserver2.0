@@ -2755,15 +2755,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-02-28 00:41:56 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_armor": {
     "criteria": {
       "gobber2_chestplate": "2025-02-28 00:42:31 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_ingot": {
+  "tombstone:adventure/root": {
     "criteria": {
-      "gobber2_ingot": "2025-02-28 00:41:56 +0000"
+      "auto": "2025-03-01 01:21:43 +0000"
     },
     "done": true
   },
