@@ -4671,6 +4671,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-01 21:52:08 +0000"
+    },
+    "done": true
+  },
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2025-03-01 20:59:00 +0000"
@@ -4716,6 +4722,12 @@
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-03-01 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-03-01 21:52:08 +0000"
     },
     "done": true
   },
