@@ -404,3 +404,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [01Mar2025 19:43:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -482.500000, 75.500000, 125.500000]
 [01Mar2025 19:49:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
 [01Mar2025 19:51:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Hat for dark affairs]
+[01Mar2025 19:54:00.242] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/13632 - Hatsune Miku.armour', to: 'db:'
+[01Mar2025 19:59:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -1639.500000, 65.500000, -3247.500000]
+[01Mar2025 20:00:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
+[01Mar2025 20:00:19.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> xd
+[01Mar2025 20:00:22.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[01Mar2025 20:00:30.058] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1564, y=55, z=-3504}
+[01Mar2025 20:00:30.059] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1553, y=55, z=-3504}
+[01Mar2025 20:00:42.917] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.919] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.919] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.920] [Worker-Main-19/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.931] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.932] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.933] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.933] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:00:42.933] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Mar2025 20:08:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 boiled away whilst trying to escape Dungeon Effigy
+[01Mar2025 20:08:23.790] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[01Mar2025 20:09:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was simmered in stygian blood
+[01Mar2025 20:09:51.080] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved

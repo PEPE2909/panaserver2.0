@@ -479,6 +479,7 @@
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:cave_spider": "2025-03-01 02:14:34 +0000",
       "minecraft:enderman": "2025-03-01 03:36:33 +0000",
+      "minecraft:stray": "2025-03-01 20:09:27 +0000",
       "minecraft:zombie": "2025-02-27 21:13:18 +0000",
       "minecraft:drowned": "2025-03-01 17:47:11 +0000",
       "minecraft:zombie_villager": "2025-03-01 03:45:38 +0000"
@@ -3492,6 +3493,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_0": "2025-03-01 19:52:54 +0000",
+      "charm_collector_3": "2025-03-01 19:52:57 +0000",
       "charm_collector_2": "2025-03-01 03:48:43 +0000"
     },
     "done": false
@@ -4616,6 +4619,18 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 18:42:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_1": "2025-03-01 19:51:36 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:hat_for_dark_deeds": {
+    "criteria": {
+      "hat_for_dark_deeds_0": "2025-03-01 19:51:36 +0000"
     },
     "done": true
   },
