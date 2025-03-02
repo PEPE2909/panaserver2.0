@@ -5251,6 +5251,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-03-02 20:49:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-03-02 20:33:59 +0000"
