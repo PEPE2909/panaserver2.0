@@ -4979,6 +4979,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-03-02 18:24:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/ominous_catalyst": {
     "criteria": {
       "nuclear_bomb": "2025-03-02 18:14:13 +0000"
@@ -4997,9 +5003,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-03-02 18:23:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_tremorsaurus": {
     "criteria": {
       "killed": "2025-03-02 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
+    "criteria": {
+      "has_raw_uranium": "2025-03-02 18:24:40 +0000"
     },
     "done": true
   },
@@ -5012,6 +5030,12 @@
   "alexscaves:alexscaves/defeat_luxtructosaurus": {
     "criteria": {
       "killed": "2025-03-02 18:16:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-03-02 18:21:27 +0000"
     },
     "done": true
   },
@@ -5039,9 +5063,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-03-02 18:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-03-02 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-03-02 18:24:06 +0000"
     },
     "done": true
   },
