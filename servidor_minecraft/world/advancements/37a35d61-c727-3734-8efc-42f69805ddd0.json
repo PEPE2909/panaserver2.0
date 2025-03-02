@@ -4954,12 +4954,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-03-02 17:18:37 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-03-02 17:18:30 +0000",
@@ -4970,6 +4964,108 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-03-02 17:18:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-03-02 17:18:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-03-02 18:14:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-03-02 18:14:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 18:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-02 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-03-02 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-03-02 18:15:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-03-02 18:16:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-02 18:16:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-02 18:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-03-02 17:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_zombie_receptacle": "2025-03-02 18:16:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-02 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-02 18:16:53 +0000"
     },
     "done": true
   },

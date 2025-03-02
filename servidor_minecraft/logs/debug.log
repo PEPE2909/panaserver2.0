@@ -5685,3 +5685,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [02Mar2025 17:52:25.847] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: welcome back MadaraUchiha2909
 [02Mar2025 17:53:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Best Friends Forever]
 [02Mar2025 17:53:15.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Tyrant King]
+[02Mar2025 17:54:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 17:54:18.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 17:54:18.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 17:54:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 17:56:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [Learn to Fart]
+[02Mar2025 17:56:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 17:56:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 17:57:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 17:59:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 17:59:18.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 17:59:18.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 18:04:18.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 18:04:18.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 18:09:18.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 18:09:18.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 18:14:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Suspicious Looking Item]
+[02Mar2025 18:14:18.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 18:14:18.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 18:14:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Beginning of the End]
+[02Mar2025 18:16:05.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Strong Undead]
+[02Mar2025 18:16:05.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [The End... of the Beginning]
+[02Mar2025 18:16:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Your First Receptacle]
+[02Mar2025 18:16:28.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Strange Mount]
+[02Mar2025 18:16:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Back to childhood]
+[02Mar2025 18:16:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Not even afraid of death]
+[02Mar2025 18:19:18.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 18:19:18.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 18:19:18.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 18:19:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 18:20:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[02Mar2025 18:21:27.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Century Egg]
+[02Mar2025 18:22:00.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -2454.500000, -9.500000, -3883.500000]
+[02Mar2025 18:23:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Bath Bomb]
+[02Mar2025 18:23:19.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -18.614006009339846,-1.6947299588593587,-21.954411944690037
+[02Mar2025 18:23:19.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -18.401309676603432,-1.6610316313250788,-21.995509147253415
+[02Mar2025 18:23:19.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -18.19814500385155,-1.6024712861780603,-21.995509147253415
+[02Mar2025 18:23:19.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -18.030149914100093,-1.5289623067042317,-21.059948298430754
+[02Mar2025 18:23:19.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.894917683564472,-1.4402074011231267,-20.995509147253415
+[02Mar2025 18:23:19.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.883716054994238,-1.3391881918594315,-20.995509147253415
+[02Mar2025 18:23:19.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.883716054994238,-1.2293650491986092,-20.995509147253415
+[02Mar2025 18:23:19.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.883716054994238,-1.109548699442696,-20.995509147253415
+[02Mar2025 18:23:19.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.883716054994238,-0.9826868634039219,-20.995509147253415
+[02Mar2025 18:23:19.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.994685936820588,-0.8646837597680079,-21.19959797676256
+[02Mar2025 18:23:19.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -18.06718107989809,-0.8218722045213163,-21.361558829277783
+[02Mar2025 18:23:19.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.94669183076121,-0.6842422174883698,-20.504838366668082
+[02Mar2025 18:23:19.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.766496190597536,-0.5276439326013698,-19.58770045313622
+[02Mar2025 18:23:19.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.65244015658709,-0.2812871453143142,-18.975564128204496
+[02Mar2025 18:23:19.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.509293223468376,-0.14214817203507302,-18.7714233269121
+[02Mar2025 18:23:19.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.21987497312648,0.018880337498274002,-18.7714233269121
+[02Mar2025 18:23:19.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -17.073774417164714,0.13506445346093798,-19.01040127838496
+[02Mar2025 18:23:19.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.76228295521696,0.298700407314735,-19.01040127838496
+[02Mar2025 18:23:19.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.64151083991146,0.40227861793594855,-19.270386331329064
+[02Mar2025 18:23:19.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.63234430813509,0.4667882389224811,-19.788755057022627
+[02Mar2025 18:23:19.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.539978179957416,0.4075392827191955,-20.132359846360032
+[02Mar2025 18:23:19.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.37910547488491,0.36183454385836633,-20.400851341319594
+[02Mar2025 18:23:19.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -16.108943798444216,0.36183454385836633,-19.963351341319594
+[02Mar2025 18:23:20.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.6257727891649014
+[02Mar2025 18:23:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.5792014912300245
+[02Mar2025 18:23:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.355247709045014
+[02Mar2025 18:23:20.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.181802662533436
+[02Mar2025 18:23:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.181802662533436
+[02Mar2025 18:23:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 2.181802662533436
+[02Mar2025 18:23:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.975568961187288
+[02Mar2025 18:23:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.7431364480423372
+[02Mar2025 18:23:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.7431364480423372
+[02Mar2025 18:23:20.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.4923062963409706
+[02Mar2025 18:23:20.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.4923062963409706
+[02Mar2025 18:23:20.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 1.229613668670936
+[02Mar2025 18:23:20.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 0.7112449429773733
+[02Mar2025 18:23:20.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 0.36764015363996805
