@@ -6095,3 +6095,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [02Mar2025 19:24:11.704] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => finish skin loading
 [02Mar2025 19:24:18.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Mar2025 19:24:18.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:26:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -2454.500000, -9.500000, -3883.500000]
+[02Mar2025 19:27:54.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 0.5140207916992949
+[02Mar2025 19:29:18.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:29:18.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:29:22.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 moved wrongly!
+[02Mar2025 19:30:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Gassed Up]
+[02Mar2025 19:31:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:31:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:32:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:32:20.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:32:34.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:33:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:33:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:34:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:34:14.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:34:18.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:34:18.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:34:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:34:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[02Mar2025 19:35:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:35:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[02Mar2025 19:37:07.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [I Am Become Death]
+[02Mar2025 19:37:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 19:38:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:39:18.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:39:18.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:40:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[02Mar2025 19:40:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[02Mar2025 19:41:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Folly of Man]
+[02Mar2025 19:41:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[02Mar2025 19:42:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 236.500000, 73.500000, 276.500000]
+[02Mar2025 19:43:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was irradiated to death
+[02Mar2025 19:43:20.569] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[02Mar2025 19:43:20.570] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:253, y:55, z:357, dim:minecraft:overworld]
+[02Mar2025 19:43:20.575] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[02Mar2025 19:44:02.429] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[02Mar2025 19:44:02.446] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[02Mar2025 19:44:18.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:44:18.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:44:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
