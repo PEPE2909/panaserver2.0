@@ -562,3 +562,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [02Mar2025 20:00:07.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 356.500000, 63.500000, -4319.500000]
 [02Mar2025 20:02:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
 [02Mar2025 20:02:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[02Mar2025 20:19:21.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[02Mar2025 20:19:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[02Mar2025 20:20:08.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:63222] logged in with entity id 88639 at (-89.14453081405743, 83.0, 311.3666888155058)
+[02Mar2025 20:20:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
