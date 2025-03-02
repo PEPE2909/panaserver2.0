@@ -6077,3 +6077,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [02Mar2025 19:07:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
 [02Mar2025 19:09:18.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Mar2025 19:09:18.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:14:18.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:14:18.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:19:18.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:19:18.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 19:22:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Removed every effect from MadaraUchiha2909]
+[02Mar2025 19:22:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed
+[02Mar2025 19:22:18.280] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[02Mar2025 19:22:18.291] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-85, y:83, z:313, dim:minecraft:overworld]
+[02Mar2025 19:22:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Killed MadaraUchiha2909]
+[02Mar2025 19:22:18.297] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[02Mar2025 19:22:19.602] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[02Mar2025 19:22:19.683] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[02Mar2025 19:24:11.688] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => start load skin
+[02Mar2025 19:24:11.688] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Load file 'Xat7nf4SrA' from 'world'
+[02Mar2025 19:24:11.704] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => did load skin from local session, time: 14ms
+[02Mar2025 19:24:11.704] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => finish skin loading
+[02Mar2025 19:24:18.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 19:24:18.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

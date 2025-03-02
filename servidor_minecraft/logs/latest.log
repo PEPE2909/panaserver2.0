@@ -518,3 +518,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [02Mar2025 19:04:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
 [02Mar2025 19:06:53.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [THE OOOOOOOOZE]
 [02Mar2025 19:07:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[02Mar2025 19:22:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Removed every effect from MadaraUchiha2909]
+[02Mar2025 19:22:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed
+[02Mar2025 19:22:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Killed MadaraUchiha2909]
+[02Mar2025 19:22:18.297] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
