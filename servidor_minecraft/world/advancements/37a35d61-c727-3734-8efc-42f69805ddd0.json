@@ -5677,6 +5677,12 @@
     },
     "done": true
   },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-03-03 16:31:34 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_slab": {
     "criteria": {
       "has_otherstone": "2025-03-03 15:53:30 +0000"
