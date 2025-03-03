@@ -391,3 +391,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 15:14:59.429] [Server thread/INFO] [Modonomicon/]: Books built.
 [03Mar2025 15:14:59.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
 [03Mar2025 15:14:59.831] [Server thread/INFO] [structurize/]: New Server UUID ed175021-a9a9-45b3-901f-e606f8165dfe
+[03Mar2025 15:24:06.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[03Mar2025 15:24:06.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 15:27:46.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:55699] logged in with entity id 3834 at (-69.41287864300656, 83.0, 316.9997277987578)
+[03Mar2025 15:27:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
