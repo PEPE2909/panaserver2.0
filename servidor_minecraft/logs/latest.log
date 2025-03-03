@@ -1299,3 +1299,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 20:42:21.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 moved too quickly! 608.3880131008327,78.07840000152588,-2621.7982141660013
 [03Mar2025 20:42:37.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 moved wrongly!
 [03Mar2025 20:43:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[03Mar2025 20:44:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[03Mar2025 20:46:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[03Mar2025 20:46:33.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 20:46:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 20:47:20.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:58608] logged in with entity id 132102 at (-90.9776882260296, 78.0, 321.1033961512181)
+[03Mar2025 20:47:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 20:48:19.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[03Mar2025 20:48:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 20:48:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Mar2025 20:48:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Mar2025 20:48:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Mar2025 20:48:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Mar2025 20:48:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Mar2025 20:48:37.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Mar2025 20:48:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Mar2025 20:48:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Mar2025 20:48:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Mar2025 20:48:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03Mar2025 20:48:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
