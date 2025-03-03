@@ -641,3 +641,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 19:46:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
 [03Mar2025 19:46:34.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
 [03Mar2025 19:46:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 19:54:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Thunker
+[03Mar2025 19:54:03.585] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 19:56:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Thunker
+[03Mar2025 19:56:20.908] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 19:57:59.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:58223] logged in with entity id 100178 at (-32.37234875872182, 129.0, -43.43847764369194)
+[03Mar2025 19:57:59.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 19:58:34.655] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:58:34.655] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:59:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> maht?
+[03Mar2025 19:59:18.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> estas?
+[03Mar2025 20:01:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Nightmare Stalker
+[03Mar2025 20:01:18.295] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 20:02:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
