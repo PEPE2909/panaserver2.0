@@ -476,6 +476,7 @@
       "minecraft:spider": "2025-02-27 22:11:39 +0000",
       "minecraft:piglin_brute": "2025-03-03 17:02:07 +0000",
       "minecraft:creeper": "2025-03-01 03:39:34 +0000",
+      "minecraft:wither": "2025-03-03 20:10:53 +0000",
       "minecraft:zombified_piglin": "2025-03-01 15:31:04 +0000",
       "minecraft:wither_skeleton": "2025-02-27 23:21:05 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
@@ -798,10 +799,13 @@
       "shrubland": "2025-03-01 15:07:24 +0000",
       "scrubland": "2025-02-27 21:15:10 +0000",
       "bayou": "2025-03-01 02:54:08 +0000",
+      "erupting_inferno": "2025-03-03 20:17:48 +0000",
       "floodplain": "2025-03-01 03:00:22 +0000",
       "highland": "2025-03-01 17:16:24 +0000",
       "jacaranda_glade": "2025-03-01 16:42:31 +0000",
       "old_growth_woodland": "2025-03-01 03:04:53 +0000",
+      "crystalline_chasm": "2025-03-03 20:12:37 +0000",
+      "withered_abyss": "2025-03-03 20:16:03 +0000",
       "orchard": "2025-03-01 16:42:21 +0000",
       "overgrown_greens": "2025-03-01 15:07:32 +0000",
       "mediterranean_forest": "2025-03-01 03:13:43 +0000",
@@ -811,6 +815,7 @@
       "wasteland": "2025-03-01 02:47:00 +0000",
       "lush_desert": "2025-03-01 02:58:05 +0000",
       "redwood_forest": "2025-03-01 15:02:38 +0000",
+      "visceral_heap": "2025-03-03 20:39:37 +0000",
       "dune_beach": "2025-03-01 15:01:12 +0000",
       "seasonal_forest": "2025-03-01 22:15:11 +0000",
       "volcanic_plains": "2025-03-01 15:08:06 +0000",
@@ -2384,9 +2389,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-27 23:47:48 +0000",
       "minecraft:nether_wastes": "2025-03-01 14:45:45 +0000",
-      "minecraft:soul_sand_valley": "2025-03-01 15:33:51 +0000"
+      "minecraft:soul_sand_valley": "2025-03-01 15:33:51 +0000",
+      "minecraft:basalt_deltas": "2025-03-03 20:16:23 +0000",
+      "minecraft:warped_forest": "2025-03-03 20:39:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -6413,6 +6420,18 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-03-03 20:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-03 20:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-03 20:01:01 +0000"
@@ -6422,6 +6441,12 @@
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-03-03 20:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-03 20:11:00 +0000"
     },
     "done": true
   },
@@ -6440,6 +6465,12 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-03-03 20:01:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-03-03 20:28:29 +0000"
     },
     "done": true
   },
