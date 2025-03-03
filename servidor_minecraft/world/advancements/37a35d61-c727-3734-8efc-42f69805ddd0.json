@@ -5861,6 +5861,24 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/iesnium_ingot_from_block": {
+    "criteria": {
+      "has_iesnium_block": "2025-03-03 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-03 17:44:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-03-03 17:44:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-03-03 17:45:00 +0000"
@@ -5885,9 +5903,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
-      "has_purple_dye": "2025-03-03 17:46:38 +0000"
+      "has_item": "2025-03-03 17:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-03-03 17:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-03 17:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-03-03 17:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-03-03 17:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-03-03 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-03-03 17:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 17:45:03 +0000"
     },
     "done": true
   },
@@ -5897,15 +5969,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_purple_dye": "2025-03-03 17:46:38 +0000"
+      "has_needed_dye": "2025-03-03 17:45:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+  "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:03 +0000"
+      "has_needed_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-03-03 17:45:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-03-03 17:46:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-03-03 17:46:28 +0000"
     },
     "done": true
   },
@@ -5921,111 +6035,33 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-03 17:45:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_cyan": {
-    "criteria": {
-      "has_item": "2025-03-03 17:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2025-03-03 17:45:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:09 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/petal_purple_double": {
     "criteria": {
       "has_alt_item": "2025-03-03 17:46:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+  "botania:recipes/misc/dye_purple": {
     "criteria": {
-      "has_red_dye": "2025-03-03 17:45:09 +0000"
+      "has_item": "2025-03-03 17:46:35 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/iesnium_ingot_from_block": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "has_iesnium_block": "2025-03-03 17:43:21 +0000"
+      "has_purple_dye": "2025-03-03 17:46:38 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/purple_shiny_flower": {
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
-      "has_item": "2025-03-03 17:46:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_petal_block": {
-    "criteria": {
-      "has_item": "2025-03-03 17:45:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2025-03-03 17:46:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2025-03-03 17:45:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-03-03 17:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:03 +0000"
+      "has_purple_dye": "2025-03-03 17:46:38 +0000"
     },
     "done": true
   },
   "domum_ornamentum:recipes/tools/purple_brick_extra": {
     "criteria": {
       "has_dye": "2025-03-03 17:46:38 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
-    "criteria": {
-      "has_dye": "2025-03-03 17:45:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan": {
-    "criteria": {
-      "has_item": "2025-03-03 17:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:09 +0000"
     },
     "done": true
   },
@@ -6041,45 +6077,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-03-03 17:45:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-03 17:46:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2025-03-03 17:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-03-03 17:45:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 17:45:03 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/red_brick_extra": {
-    "criteria": {
-      "has_dye": "2025-03-03 17:45:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_purple": {
-    "criteria": {
-      "has_item": "2025-03-03 17:46:35 +0000"
     },
     "done": true
   },
