@@ -587,3 +587,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 19:04:52.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
 [03Mar2025 19:10:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 6 [Ritual: Craft Storage Stabilizer Tier 4] to MadaraUchiha2909]
 [03Mar2025 19:10:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 6 [Tier 4 Dimensional Storage Stabilizer] to MadaraUchiha2909]
+[03Mar2025 19:15:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 19:16:38.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 19:17:15.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
+[03Mar2025 19:17:46.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 19:18:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 19:19:09.754] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:09.755] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:09.756] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:09.757] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:11.167] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:11.167] [Worker-Main-358/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:18.562] [Worker-Main-359/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.252] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.253] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.254] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.254] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.254] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.288] [Worker-Main-357/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.289] [Worker-Main-357/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.289] [Worker-Main-357/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.361] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.372] [Worker-Main-328/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.388] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.388] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:19.389] [Worker-Main-340/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:20.654] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:20.654] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:20.655] [Worker-Main-338/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 19:19:55.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 19:20:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
+[03Mar2025 19:20:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 19:22:18.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]

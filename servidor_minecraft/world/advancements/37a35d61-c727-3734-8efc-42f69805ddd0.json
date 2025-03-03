@@ -6323,6 +6323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-03 19:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-03 19:16:29 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/storage_controller": {
     "criteria": {
       "has_dimensional_matrix": "2025-03-03 19:04:35 +0000"
@@ -6332,6 +6344,12 @@
   "occultism:occultism/craft_dimensional_matrix": {
     "criteria": {
       "craft_dimensional_matrix": "2025-03-03 19:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-03 19:16:29 +0000"
     },
     "done": true
   },
