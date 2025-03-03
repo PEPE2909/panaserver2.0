@@ -5395,6 +5395,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
     "criteria": {
       "has_otherworld_log": "2025-03-03 15:55:55 +0000"
@@ -5422,6 +5428,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
     },
     "done": true
   },
@@ -5461,6 +5473,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-03-03 16:10:59 +0000"
@@ -5497,6 +5515,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-03 15:41:24 +0000"
@@ -5506,6 +5530,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-03-03 16:10:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mummy_dodge": {
+    "criteria": {
+      "mummy_dodge": "2025-03-03 16:17:38 +0000"
     },
     "done": true
   },
@@ -5548,6 +5578,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-03 15:39:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
     },
     "done": true
   },
