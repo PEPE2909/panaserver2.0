@@ -5381,81 +5381,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "occultism:recipes/decorations/crafting/candle": {
     "criteria": {
-      "has_chicken": "2025-03-03 15:39:48 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
-    "criteria": {
-      "has_chalk_white_impure": "2025-03-03 15:57:53 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
-    "criteria": {
-      "has_sacrificial_bowl": "2025-03-03 16:02:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
-    "criteria": {
-      "has_logs": "2025-03-03 16:53:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/magic_lamp_empty": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
-    "criteria": {
-      "has_otherworld_log": "2025-03-03 15:55:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/spirit_campfire": {
-    "criteria": {
-      "has_datura": "2025-03-03 15:46:18 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
-    "criteria": {
-      "has_gold_dust": "2025-03-03 16:40:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/blood_pendant": {
-    "criteria": {
-      "has_item": "2025-03-03 16:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 16:10:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+      "has_tallow": "2025-03-03 15:39:36 +0000"
     },
     "done": true
   },
@@ -5465,63 +5393,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
+      "has_beef": "2025-03-03 15:39:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_porkchop": "2025-03-03 15:41:24 +0000"
+      "has_beef": "2025-03-03 15:39:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_needed_dye": "2025-03-03 16:10:46 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/otherstone_frame": {
-    "criteria": {
-      "has_otherstone": "2025-03-03 15:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-03-03 16:09:35 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/lens_frame": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
-    "criteria": {
-      "has_datura": "2025-03-03 15:46:18 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/chalk_red_impure": {
-    "criteria": {
-      "has_chalk_white": "2025-03-03 15:57:48 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
-    "criteria": {
-      "has_taboo_book": "2025-03-03 16:08:24 +0000"
+      "has_chicken": "2025-03-03 15:39:48 +0000"
     },
     "done": true
   },
@@ -5531,33 +5417,15 @@
     },
     "done": true
   },
-  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_otherworld_sapling_natural": "2025-03-03 15:55:23 +0000"
+      "has_chicken": "2025-03-03 15:39:48 +0000"
     },
     "done": true
   },
-  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_chalk_gold_impure": "2025-03-03 16:44:30 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-03-03 17:01:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/incense_stick": {
-    "criteria": {
-      "has_item": "2025-03-03 16:41:47 +0000"
+      "has_porkchop": "2025-03-03 15:41:24 +0000"
     },
     "done": true
   },
@@ -5567,69 +5435,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_black_dye": "2025-03-03 16:10:46 +0000"
+      "has_porkchop": "2025-03-03 15:41:24 +0000"
     },
     "done": true
   },
-  "occultism:occultism/familiar/mummy_dodge": {
+  "occultism:recipes/misc/crafting/spirit_campfire": {
     "criteria": {
-      "mummy_dodge": "2025-03-03 16:17:38 +0000"
+      "has_datura": "2025-03-03 15:46:18 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/deepsight": {
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
     "criteria": {
-      "all_effects": "2025-03-03 16:43:03 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/craft_infused_lenses": {
-    "criteria": {
-      "craft_infused_lenses": "2025-03-03 16:50:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/book_of_binding_marid": {
-    "criteria": {
-      "has_taboo_book": "2025-03-03 16:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
-    "criteria": {
-      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-03-03 15:39:37 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
-    "criteria": {
-      "has_gold_dust": "2025-03-03 16:40:14 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/tools/crafting/divination_rod": {
-    "criteria": {
-      "has_spirit_attuned_gem": "2025-03-03 16:00:06 +0000"
+      "has_datura": "2025-03-03 15:46:18 +0000"
     },
     "done": true
   },
@@ -5639,15 +5459,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "occultism:recipes/crushing/crushing/datura": {
     "criteria": {
-      "has_chicken": "2025-03-03 15:39:48 +0000"
+      "has_datura": "2025-03-03 15:46:18 +0000"
     },
     "done": true
   },
-  "occultism:recipes/building_blocks/crafting/silver_block": {
+  "occultism:recipes/misc/crafting/otherstone_frame": {
     "criteria": {
-      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_slab": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/burnt_otherstone": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+    "criteria": {
+      "has_otherworld_sapling_natural": "2025-03-03 15:55:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_ashes": {
+    "criteria": {
+      "has_otherworld_log": "2025-03-03 15:55:55 +0000"
     },
     "done": true
   },
@@ -5657,51 +5513,39 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+  "occultism:recipes/misc/crafting/chalk_red_impure": {
     "criteria": {
-      "has_taboo_book": "2025-03-03 16:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
-    "criteria": {
-      "has_spirit_attuned_gem": "2025-03-03 16:00:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-03-03 15:41:24 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 16:10:46 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/black_brick_extra": {
-    "criteria": {
-      "has_dye": "2025-03-03 16:10:46 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
-    "criteria": {
-      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+      "has_chalk_white": "2025-03-03 15:57:48 +0000"
     },
     "done": true
   },
   "occultism:recipes/misc/crafting/chalk_gold_impure": {
     "criteria": {
       "has_chalk_white": "2025-03-03 15:57:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/chalk_purple_impure": {
+    "criteria": {
+      "has_chalk_white": "2025-03-03 15:57:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_white": {
+    "criteria": {
+      "has_chalk_white_impure": "2025-03-03 15:57:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-03-03 16:00:06 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-03-03 16:00:06 +0000"
     },
     "done": true
   },
@@ -5717,45 +5561,9 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/white_brick_extra": {
+  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
     "criteria": {
-      "has_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/tools/crafting/goggles": {
-    "criteria": {
-      "has_infused_lenses": "2025-03-03 16:50:14 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
-    "criteria": {
-      "has_otherstone": "2025-03-03 15:53:30 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/chalk_purple_impure": {
-    "criteria": {
-      "has_chalk_white": "2025-03-03 15:57:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "occultism:occultism/summon_foliot_crusher": {
-    "criteria": {
-      "summon_foliot_crusher": "2025-03-03 16:31:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/building_blocks/crafting/otherstone_slab": {
-    "criteria": {
-      "has_otherstone": "2025-03-03 15:53:30 +0000"
+      "has_sacrificial_bowl": "2025-03-03 16:02:58 +0000"
     },
     "done": true
   },
@@ -5765,9 +5573,21 @@
     },
     "done": true
   },
-  "occultism:recipes/decorations/crafting/candle": {
+  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
     "criteria": {
-      "has_tallow": "2025-03-03 15:39:36 +0000"
+      "has_taboo_book": "2025-03-03 16:08:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_marid": {
+    "criteria": {
+      "has_taboo_book": "2025-03-03 16:08:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+    "criteria": {
+      "has_taboo_book": "2025-03-03 16:08:24 +0000"
     },
     "done": true
   },
@@ -5777,45 +5597,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-03-03 16:10:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/misc/crafting/book_of_binding_empty": {
     "criteria": {
       "has_taboo_book": "2025-03-03 16:08:24 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+      "has_ink_sac": "2025-03-03 16:09:35 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
-      "has_log": "2025-03-03 16:53:44 +0000"
+      "has_needed_dye": "2025-03-03 16:10:46 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
-      "bastion": "2025-03-03 17:01:27 +0000"
+      "has_needed_dye": "2025-03-03 16:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 16:10:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 16:10:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/black_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-03-03 16:10:46 +0000"
     },
     "done": true
   },
@@ -5831,33 +5651,213 @@
     },
     "done": true
   },
-  "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
-    "criteria": {
-      "has_otherstone": "2025-03-03 15:53:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-03 16:10:46 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/smelting/burnt_otherstone": {
+  "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
-      "has_otherstone": "2025-03-03 15:53:30 +0000"
+      "has_needed_dye": "2025-03-03 16:10:59 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/datura": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_datura": "2025-03-03 15:46:18 +0000"
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "has_beef": "2025-03-03 15:39:37 +0000"
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_brick_extra": {
+    "criteria": {
+      "has_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-03 16:10:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_lumberjack": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
+    "criteria": {
+      "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mummy_dodge": {
+    "criteria": {
+      "mummy_dodge": "2025-03-03 16:17:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_foliot_crusher": {
+    "criteria": {
+      "summon_foliot_crusher": "2025-03-03 16:31:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-03-03 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-03-03 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-03-03 16:41:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-03-03 16:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-03-03 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2025-03-03 16:44:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_lenses": {
+    "criteria": {
+      "craft_infused_lenses": "2025-03-03 16:50:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/goggles": {
+    "criteria": {
+      "has_infused_lenses": "2025-03-03 16:50:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-03-03 16:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 16:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-03 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-03 17:01:37 +0000"
     },
     "done": true
   },

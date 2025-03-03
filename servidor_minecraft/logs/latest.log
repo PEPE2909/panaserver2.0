@@ -484,3 +484,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 17:04:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
 [03Mar2025 17:04:38.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
 [03Mar2025 17:05:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[03Mar2025 17:13:40.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[03Mar2025 17:13:40.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 17:15:43.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:56698] logged in with entity id 36759 at (2.026850722494141, 19.0, 60.4077028390252)
+[03Mar2025 17:15:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 17:16:21.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 17:16:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 17:16:56.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:56721] logged in with entity id 37143 at (2.026850722494141, 19.0, 60.4077028390252)
+[03Mar2025 17:16:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 17:17:06.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Conjurling
+[03Mar2025 17:17:06.907] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[03Mar2025 17:17:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Conjurling
+[03Mar2025 17:17:33.786] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[03Mar2025 17:18:04.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[03Mar2025 17:18:41.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 17:18:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 17:19:24.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@567a73bd[id=<null>,name=MadaraUchiha2909,properties={},legacy=false] (/172.23.164.249:56724) lost connection: Timed out
+[03Mar2025 17:19:52.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:56731] logged in with entity id 38774 at (2.5649737305030826, 19.0, 60.597525825906295)
+[03Mar2025 17:19:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 17:20:23.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 17:20:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
