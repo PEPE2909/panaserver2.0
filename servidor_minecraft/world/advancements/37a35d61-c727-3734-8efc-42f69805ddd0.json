@@ -6323,5 +6323,17 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/storage_controller": {
+    "criteria": {
+      "has_dimensional_matrix": "2025-03-03 19:04:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_dimensional_matrix": {
+    "criteria": {
+      "craft_dimensional_matrix": "2025-03-03 19:04:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

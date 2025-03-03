@@ -2617,6 +2617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-03 19:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-03 18:27:47 +0000"
@@ -2662,6 +2668,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-03 18:27:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "hedge_spider": "2025-03-03 19:02:27 +0000"
     },
     "done": true
   },
@@ -2749,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-03 19:02:38 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/potato_soup": {
     "criteria": {
       "has_potato": "2025-03-03 18:06:03 +0000"
@@ -2794,6 +2812,24 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-03-03 18:15:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-03-03 19:03:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-03 19:01:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-03-03 19:02:27 +0000"
     },
     "done": true
   },
