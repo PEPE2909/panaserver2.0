@@ -398,3 +398,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 15:42:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
 [03Mar2025 15:50:15.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 0.4452437665209388
 [03Mar2025 15:50:15.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved wrongly! 0.7220036211447578
+[03Mar2025 16:02:39.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[03Mar2025 16:05:05.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 moved wrongly!
+[03Mar2025 16:06:13.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[03Mar2025 16:09:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 236.500000, 73.500000, 276.500000]
+[03Mar2025 16:10:05.555] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:05.559] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:06.023] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:06.023] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:06.024] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:06.024] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:06.024] [Worker-Main-87/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[03Mar2025 16:10:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
+[03Mar2025 16:17:38.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Ninja!]
+[03Mar2025 16:18:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -70.500000, 83.500000, 308.500000]
