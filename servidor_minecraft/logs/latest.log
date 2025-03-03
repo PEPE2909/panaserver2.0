@@ -619,3 +619,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 19:20:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
 [03Mar2025 19:20:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
 [03Mar2025 19:22:18.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
+[03Mar2025 19:22:54.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 19:23:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Enchanter Merlin
+[03Mar2025 19:23:10.890] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 19:23:23.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 19:25:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Take Aim]
+[03Mar2025 19:25:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was slain by Sorceress Circe
+[03Mar2025 19:25:10.036] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 19:25:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 19:30:54.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[03Mar2025 19:30:54.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 19:31:06.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M5T1 lost connection: Disconnected
+[03Mar2025 19:31:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 left the game
+[03Mar2025 19:31:23.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M5T1[/172.23.175.19:59985] logged in with entity id 91375 at (-28.112856308964446, 129.0, -13.067084021223534)
+[03Mar2025 19:31:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 joined the game
