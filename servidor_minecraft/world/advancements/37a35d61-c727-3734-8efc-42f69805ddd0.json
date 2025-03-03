@@ -5383,6 +5383,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-03-03 15:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-03 15:39:37 +0000"
@@ -5395,9 +5401,27 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/otherstone_frame": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-03-03 15:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-03 15:39:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/otherworld_sapling": {
+    "criteria": {
+      "has_otherworld_sapling_natural": "2025-03-03 15:55:23 +0000"
     },
     "done": true
   },
@@ -5413,6 +5437,12 @@
     },
     "done": true
   },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-03-03 15:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-03 15:39:48 +0000"
@@ -5425,9 +5455,39 @@
     },
     "done": true
   },
+  "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_slab": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/decorations/crafting/candle": {
     "criteria": {
       "has_tallow": "2025-03-03 15:39:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/burnt_otherstone": {
+    "criteria": {
+      "has_otherstone": "2025-03-03 15:53:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-03-03 15:46:18 +0000"
     },
     "done": true
   },
