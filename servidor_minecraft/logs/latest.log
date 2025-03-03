@@ -568,3 +568,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 18:34:09.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [A Strange Grave Dust]
 [03Mar2025 18:37:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
 [03Mar2025 18:38:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[03Mar2025 18:42:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to M5T1]
+[03Mar2025 18:42:58.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
+[03Mar2025 18:43:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 18:45:37.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 1 [Book of Binding: Djinni (Bound)] to MadaraUchiha2909]
+[03Mar2025 18:46:35.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 18:46:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[03Mar2025 18:47:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Sweet Dreams]
