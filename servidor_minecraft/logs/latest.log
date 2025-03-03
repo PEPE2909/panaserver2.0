@@ -633,3 +633,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 19:31:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 left the game
 [03Mar2025 19:31:23.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M5T1[/172.23.175.19:59985] logged in with entity id 91375 at (-28.112856308964446, 129.0, -13.067084021223534)
 [03Mar2025 19:31:23.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 joined the game
+[03Mar2025 19:41:03.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:58032] logged in with entity id 92816 at (-28.02016544262263, 129.0, -19.581270763871714)
+[03Mar2025 19:41:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 19:43:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> ad
+[03Mar2025 19:43:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 was simmered in stygian blood
+[03Mar2025 19:43:33.346] [Server thread/INFO] [tombstone/]: The player M5T1 has successfully been saved
+[03Mar2025 19:46:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 19:46:34.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[03Mar2025 19:46:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
