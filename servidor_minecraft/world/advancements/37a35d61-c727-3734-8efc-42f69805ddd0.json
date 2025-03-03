@@ -469,15 +469,18 @@
       "minecraft:blaze": "2025-02-27 23:03:19 +0000",
       "minecraft:pillager": "2025-02-28 00:03:04 +0000",
       "minecraft:skeleton": "2025-02-27 21:08:36 +0000",
+      "minecraft:ghast": "2025-03-03 16:41:40 +0000",
       "minecraft:hoglin": "2025-03-01 15:13:37 +0000",
       "minecraft:vindicator": "2025-03-01 16:22:09 +0000",
       "minecraft:magma_cube": "2025-02-27 23:05:13 +0000",
       "minecraft:spider": "2025-02-27 22:11:39 +0000",
+      "minecraft:piglin_brute": "2025-03-03 17:02:07 +0000",
       "minecraft:creeper": "2025-03-01 03:39:34 +0000",
       "minecraft:zombified_piglin": "2025-03-01 15:31:04 +0000",
       "minecraft:wither_skeleton": "2025-02-27 23:21:05 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:cave_spider": "2025-03-01 02:14:34 +0000",
+      "minecraft:piglin": "2025-03-03 17:02:04 +0000",
       "minecraft:enderman": "2025-03-01 03:36:33 +0000",
       "minecraft:stray": "2025-03-01 20:09:27 +0000",
       "minecraft:zombie": "2025-02-27 21:13:18 +0000",
@@ -815,6 +818,7 @@
       "prairie": "2025-03-01 15:01:18 +0000",
       "snowy_coniferous_forest": "2025-03-01 22:15:23 +0000",
       "glowing_grotto": "2025-03-01 20:35:33 +0000",
+      "undergrowth": "2025-03-03 16:53:38 +0000",
       "rainforest": "2025-02-27 23:46:13 +0000",
       "crag": "2025-03-01 17:16:32 +0000"
     },
@@ -5395,6 +5399,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-03-03 16:53:44 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/magic_lamp_empty": {
     "criteria": {
       "has_silver_ingot": "2025-03-03 16:18:57 +0000"
@@ -5416,6 +5426,18 @@
   "occultism:recipes/misc/crafting/spirit_campfire": {
     "criteria": {
       "has_datura": "2025-03-03 15:46:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-03-03 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-03-03 16:41:47 +0000"
     },
     "done": true
   },
@@ -5515,9 +5537,27 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/chalk_gold": {
+    "criteria": {
+      "has_chalk_gold_impure": "2025-03-03 16:44:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-03-03 16:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-03 17:01:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-03-03 16:41:47 +0000"
     },
     "done": true
   },
@@ -5539,6 +5579,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-03-03 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_infused_lenses": {
+    "criteria": {
+      "craft_infused_lenses": "2025-03-03 16:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-03-03 16:10:59 +0000"
@@ -5551,6 +5603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/book_of_calling_foliot_cleaner": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
@@ -5560,6 +5618,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-03 15:39:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-03-03 16:40:14 +0000"
     },
     "done": true
   },
@@ -5659,6 +5723,12 @@
     },
     "done": true
   },
+  "occultism:recipes/tools/crafting/goggles": {
+    "criteria": {
+      "has_infused_lenses": "2025-03-03 16:50:14 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
     "criteria": {
       "has_otherstone": "2025-03-03 15:53:30 +0000"
@@ -5719,6 +5789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-03 16:42:31 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/book_of_binding_empty": {
     "criteria": {
       "has_taboo_book": "2025-03-03 16:08:24 +0000"
@@ -5728,6 +5804,18 @@
   "occultism:recipes/misc/crafting/book_of_calling_foliot_transport_items": {
     "criteria": {
       "has_book_of_binding_bound_foliot": "2025-03-03 16:11:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 16:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-03 17:01:27 +0000"
     },
     "done": true
   },
