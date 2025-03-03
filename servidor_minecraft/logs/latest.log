@@ -533,3 +533,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [03Mar2025 17:53:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
 [03Mar2025 17:55:04.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:57038] logged in with entity id 47982 at (-82.86007774507542, 83.0, 318.61844043496455)
 [03Mar2025 17:55:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[03Mar2025 18:03:20.084] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'MadaraUchiha2909', from: 'fs:/downloads/23848 - 枫原万叶[特别重置].armour', to: 'db:'
+[03Mar2025 18:04:16.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M5T1[/172.23.175.19:59552] logged in with entity id 49363 at (30.839295408829912, -8.0, 23.450575443184697)
+[03Mar2025 18:04:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 joined the game
+[03Mar2025 18:04:50.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[03Mar2025 18:10:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 1 [Egg] to MadaraUchiha2909]
