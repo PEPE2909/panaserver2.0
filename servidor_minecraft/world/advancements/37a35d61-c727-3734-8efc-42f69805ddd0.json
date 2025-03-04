@@ -6516,6 +6516,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_nether": {
+    "criteria": {
+      "gobber2_chestplate_nether": "2025-03-04 00:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-03-04 00:32:08 +0000"
@@ -6525,12 +6531,6 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-03-04 00:32:08 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_armor_nether": {
-    "criteria": {
-      "gobber2_chestplate_nether": "2025-03-04 00:23:01 +0000"
     },
     "done": true
   },
