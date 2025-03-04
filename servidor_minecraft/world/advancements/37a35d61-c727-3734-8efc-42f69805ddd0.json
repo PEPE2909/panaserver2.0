@@ -74,6 +74,7 @@
       "minecraft:river": "2025-02-27 21:19:11 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 02:46:34 +0000",
       "minecraft:stony_shore": "2025-03-01 03:03:51 +0000",
+      "minecraft:snowy_plains": "2025-03-04 03:42:42 +0000",
       "minecraft:dripstone_caves": "2025-03-01 01:53:01 +0000",
       "minecraft:forest": "2025-02-27 21:49:56 +0000",
       "minecraft:desert": "2025-03-01 02:55:08 +0000",
@@ -6540,6 +6541,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-03-04 03:45:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-03-04 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-03-04 03:42:42 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2025-03-04 03:29:42 +0000"
@@ -6549,6 +6568,12 @@
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-03-04 03:25:54 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-03-04 03:45:44 +0000"
     },
     "done": true
   },
