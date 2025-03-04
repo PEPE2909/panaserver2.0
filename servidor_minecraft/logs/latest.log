@@ -412,3 +412,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 00:19:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> adw
 [04Mar2025 00:20:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
 [04Mar2025 00:23:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Weather the Worst the Nether can Muster]
+[04Mar2025 00:25:54.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -1616.500000, 32.500000, 477.500000]
+[04Mar2025 00:26:22.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6465118880948921,-2.1268398302242773,13.29494727597205
+[04Mar2025 00:26:22.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6453569133479959,-1.9876162948549023,12.520275232952997
+[04Mar2025 00:26:22.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6350995677655646,-1.8636012683472174,11.775374904109356
+[04Mar2025 00:26:22.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6166010994074895,-1.7475606196348323,11.05930277039323
+[04Mar2025 00:26:22.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6717456485778257,-1.76801367126955,11.1707336375012
+[04Mar2025 00:26:22.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6403501342033451,-1.6692750819447397,10.509528591206333
+[04Mar2025 00:29:03.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[04Mar2025 00:29:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]

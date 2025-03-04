@@ -6301,3 +6301,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 00:19:48.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Mar2025 00:20:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
 [04Mar2025 00:23:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Weather the Worst the Nether can Muster]
+[04Mar2025 00:24:25.699] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => start load skin
+[04Mar2025 00:24:25.699] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Load file 'Xat7nf4SrA' from 'world'
+[04Mar2025 00:24:25.716] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => did load skin from local session, time: 15ms
+[04Mar2025 00:24:25.716] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => finish skin loading
+[04Mar2025 00:24:48.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:24:48.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 00:25:54.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -1616.500000, 32.500000, 477.500000]
+[04Mar2025 00:26:22.890] [Worker-Main-56/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Mar2025 00:26:22.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6465118880948921,-2.1268398302242773,13.29494727597205
+[04Mar2025 00:26:22.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6453569133479959,-1.9876162948549023,12.520275232952997
+[04Mar2025 00:26:22.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6350995677655646,-1.8636012683472174,11.775374904109356
+[04Mar2025 00:26:22.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6166010994074895,-1.7475606196348323,11.05930277039323
+[04Mar2025 00:26:22.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6717456485778257,-1.76801367126955,11.1707336375012
+[04Mar2025 00:26:22.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of MadaraUchiha2909) moved too quickly! -0.6403501342033451,-1.6692750819447397,10.509528591206333
+[04Mar2025 00:29:03.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[04Mar2025 00:29:48.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 00:29:48.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 00:29:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
