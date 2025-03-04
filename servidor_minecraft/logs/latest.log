@@ -393,3 +393,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 00:13:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> aaaa
 [04Mar2025 00:13:20.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
 [04Mar2025 00:13:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[04Mar2025 00:13:42.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:60313] logged in with entity id 3290 at (-21.589653848957578, 88.0, 256.7757527518629)
+[04Mar2025 00:13:42.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[04Mar2025 00:14:20.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -14.500000, 87.500000, 38.500000]
+[04Mar2025 00:15:22.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[04Mar2025 00:15:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[04Mar2025 00:15:45.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:60316] logged in with entity id 3919 at (-86.18337115241728, 83.0, 316.22676526529324)
+[04Mar2025 00:15:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[04Mar2025 00:16:30.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[04Mar2025 00:16:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[04Mar2025 00:17:35.362] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@edc4fde[id=<null>,name=MadaraUchiha2909,properties={},legacy=false] (/172.23.164.249:60318) lost connection: Disconnected
+[04Mar2025 00:18:18.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14c24a2b[id=<null>,name=MadaraUchiha2909,properties={},legacy=false] (/172.23.164.249:60367) lost connection: Disconnected
+[04Mar2025 00:18:35.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:60368] logged in with entity id 4178 at (-86.18337115241728, 83.0, 316.22676526529324)
+[04Mar2025 00:18:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[04Mar2025 00:19:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[04Mar2025 00:19:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> eee
+[04Mar2025 00:19:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> pene
+[04Mar2025 00:19:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> adw
+[04Mar2025 00:20:16.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
+[04Mar2025 00:23:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Weather the Worst the Nether can Muster]
