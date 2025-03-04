@@ -1548,3 +1548,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 03:24:29.319] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:24:29.320] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:24:29.320] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:25:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[04Mar2025 03:25:42.427] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:25:54.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Imperfect thing]
+[04Mar2025 03:26:03.617] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:26:03.617] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:27:47.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 tried to swim in lava to escape Ignis
+[04Mar2025 03:27:47.507] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:28:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Ignis
+[04Mar2025 03:28:45.227] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:29:23.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed by Ignis using magic
+[04Mar2025 03:29:23.320] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:29:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [The Extinguished Fire]
+[04Mar2025 03:30:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Ignis
+[04Mar2025 03:30:55.280] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved

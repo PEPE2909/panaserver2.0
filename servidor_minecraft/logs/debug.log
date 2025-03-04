@@ -6801,3 +6801,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 03:24:29.319] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:24:29.320] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:24:29.320] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:25:38.614] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => start load skin
+[04Mar2025 03:25:38.614] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Load file 'Xat7nf4SrA' from 'world'
+[04Mar2025 03:25:38.630] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => did load skin from local session, time: 13ms
+[04Mar2025 03:25:38.630] [AW-SKIN-LD/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Xat7nf4SrA' => finish skin loading
+[04Mar2025 03:25:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[04Mar2025 03:25:42.427] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:25:54.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Imperfect thing]
+[04Mar2025 03:26:03.617] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:26:03.617] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:26:28.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 03:26:28.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 03:27:47.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 tried to swim in lava to escape Ignis
+[04Mar2025 03:27:47.490] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[04Mar2025 03:27:47.494] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-6113, y:65, z:-7463, dim:minecraft:the_nether]
+[04Mar2025 03:27:47.507] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:27:49.964] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[04Mar2025 03:27:49.992] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[04Mar2025 03:28:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Ignis
+[04Mar2025 03:28:45.209] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[04Mar2025 03:28:45.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-6118, y:67, z:-7446, dim:minecraft:the_nether]
+[04Mar2025 03:28:45.227] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:28:47.397] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[04Mar2025 03:28:47.417] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[04Mar2025 03:29:23.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed by Ignis using magic
+[04Mar2025 03:29:23.314] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[04Mar2025 03:29:23.315] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-6118, y:65, z:-7451, dim:minecraft:the_nether]
+[04Mar2025 03:29:23.320] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:29:25.472] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[04Mar2025 03:29:25.489] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[04Mar2025 03:29:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [The Extinguished Fire]
+[04Mar2025 03:30:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Ignis
+[04Mar2025 03:30:55.214] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful MadaraUchiha2909
+[04Mar2025 03:30:55.214] [Server thread/DEBUG] [tombstone/]: A new grave of the player MadaraUchiha2909 was created at position [x:-6139, y:65, z:-7449, dim:minecraft:the_nether]
+[04Mar2025 03:30:55.280] [Server thread/INFO] [tombstone/]: The player MadaraUchiha2909 has successfully been saved
+[04Mar2025 03:30:57.417] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa MadaraUchiha2909
+[04Mar2025 03:30:57.434] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[04Mar2025 03:31:28.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 03:31:28.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -6534,5 +6534,23 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-03-04 03:24:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-03-04 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-03-04 03:25:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
