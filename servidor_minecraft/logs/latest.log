@@ -407,3 +407,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [04Mar2025 03:04:51.372] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:04:51.416] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [04Mar2025 03:04:51.417] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Mar2025 03:05:34.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3115, y=13, z=-2699} BlockPos{x=-3115, y=12, z=-2698}
+[04Mar2025 03:05:37.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3120, y=11, z=-2697} BlockPos{x=-3119, y=11, z=-2697}
+[04Mar2025 03:06:37.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[04Mar2025 03:06:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[04Mar2025 03:07:14.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:58866] logged in with entity id 4416 at (-3114.6842607599942, 11.5, -2694.0889485111716)
+[04Mar2025 03:07:14.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[04Mar2025 03:07:35.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[04Mar2025 03:07:55.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[04Mar2025 03:09:41.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3125, y=12, z=-2722} BlockPos{x=-3113, y=11, z=-2723}
+[04Mar2025 03:09:41.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3125, y=12, z=-2722} BlockPos{x=-3113, y=11, z=-2723}
+[04Mar2025 03:09:41.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3125, y=12, z=-2722} BlockPos{x=-3113, y=11, z=-2723}
+[04Mar2025 03:09:41.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3125, y=12, z=-2722} BlockPos{x=-3113, y=11, z=-2723}
+[04Mar2025 03:09:43.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3110, y=12, z=-2723} BlockPos{x=-3109, y=11, z=-2723}
+[04Mar2025 03:12:50.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3133, y=14, z=-2718} BlockPos{x=-3134, y=13, z=-2718}
+[04Mar2025 03:12:50.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3133, y=14, z=-2718} BlockPos{x=-3134, y=13, z=-2718}
+[04Mar2025 03:12:50.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3133, y=14, z=-2718} BlockPos{x=-3134, y=13, z=-2718}
+[04Mar2025 03:12:51.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3133, y=14, z=-2718} BlockPos{x=-3134, y=13, z=-2718}
+[04Mar2025 03:12:52.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3129, y=13, z=-2718} BlockPos{x=-3130, y=12, z=-2718}
+[04Mar2025 03:12:52.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3131, y=12, z=-2718} BlockPos{x=-3130, y=12, z=-2718}
+[04Mar2025 03:13:19.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[04Mar2025 03:13:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[04Mar2025 03:13:50.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[04Mar2025 03:13:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[04Mar2025 03:14:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[04Mar2025 03:15:00.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[04Mar2025 03:15:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
